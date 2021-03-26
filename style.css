@@ -1,0 +1,619 @@
+.item_body{
+    padding:0px;
+    margin: 0px;
+
+}
+
+.ahg{
+    height: 700px; 
+    width: 1920px;
+    overflow: auto;
+    margin: 0 auto; 
+    background-color:  #eeeff1;
+    width: auto;
+   }
+
+.container{
+position:absolute;
+top:50px;
+left:405px;
+}
+.ret{
+    position:absolute;
+    top: 72px;
+    left: 896px;
+    }  
+svg.rabdg{
+    position:absolute;
+    top: 271px;
+    left: 487px;
+    } 
+svg.retr{
+    position:absolute;
+    top: 250px;
+    left: 974px;
+    } 
+span.grim{
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 975px;
+    top: 355px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #727272;
+}
+svg.rwer{
+    position:absolute;
+    top: 482px;
+    left: 975px;
+}
+svg.b{
+    position:absolute;
+    top: 812px;
+    left: 758px;  
+}
+span.grime{
+position: absolute;
+width: 540px;
+height: 67px;
+left: 690px;
+top: 892px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+}
+
+  
+svg.tren{
+    position: absolute;
+    width: 1903px;
+    height: 250;
+    top: 1059px; 
+}
+
+
+svg.truwer{
+    position: absolute;
+    left: 388px;
+    top: 1507px;
+}
+img.trap{
+ position: absolute;
+width: 555px;
+height: 450px;
+left: 981px;
+top: 1411px;
+
+background: url(photo-1508908324153-d1a219719814.jpg), #C4C4C4;
+
+}
+svg.ghgh{
+  
+
+position: absolute;
+width: 403px;
+height: 30px;
+left: 758px;
+top: 2062px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+
+
+}
+span.grimeas{
+   
+
+position: absolute;
+width: 540px;
+height: 67px;
+left: 690px;
+top: 2142px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+
+
+}
+.seredina{
+    height: 1290px;
+    width: 1920px;
+margin: 0 auto;
+width: auto;
+}
+div.vtoraya{
+    height: 1004px; 
+    width: 1920px;
+    overflow: auto;
+    margin: 0 auto; 
+    background-color:  #eeeff1;
+    width: auto;
+    top: 1962;
+   }
+.item_img{
+    
+    position: absolute;
+width: 1110px;
+height: 600px;
+left: 405px;
+top: 2294px;
+}
+.item_knopka{
+    
+position: absolute;
+width: 100px;
+height: 100px;
+left: 910px;
+top: 2516px;
+}
+.item_photo{
+    height: 1000px; 
+    width: 1920px;
+    overflow: auto;
+    margin: 0 auto; 
+    width: auto;
+    top: 2966;
+}
+.photo_nas{
+
+
+
+position: absolute;
+width: 463px;
+height: 480px;
+left: 1440px;
+top: 2994px;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+
+
+
+
+}
+
+
+
+
+.photo_vas{
+
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 959px;
+top: 3474px;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+
+
+}
+.photo_uas{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+top: 3474px;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+
+
+}
+.svgto{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 670px;
+    top: 3156px;  
+}
+
+
+.photo_gas{
+    /* Rectangle 7.1 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+height: auto;
+left: 480px;
+top: 2994px;
+
+background: linear-gradient(0deg, rgba(52, 84, 122, 0.8), rgba(52, 84, 122, 0.8)), url(photo-1454165804606-c3d57bc86b40.jpg);
+}
+
+.photo_nes{
+/* Rectangle 7 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+top: 2994px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+    
+}
+
+    
+.photo_ves{
+/* Rectangle 7.4 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 479px;
+top: 3474px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+    }
+    .photo_ges{
+/* Rectangle 7.2 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 960px;
+top: 2994px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+    }
+    .photo_ues{
+
+position: absolute;
+width: 464px;
+height: 480px;
+left: 1439px;
+top: 3474px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+    }
+    .photoshop{
+       
+position: absolute;
+width: 480px;
+height: 480px;
+height: auto;
+left: 480px;
+top: 2994px; 
+    }
+    .item_photo9{
+       /* Rectangle 9 */
+
+position: absolute;
+width: 255px;
+height: 120px;
+left: 405px;
+top: 4026px;
+
+}
+.item_photo10{
+    /* Rectangle 9.1 */
+
+position: absolute;
+width: 255px;
+height: 120px;
+left: 690px;
+top: 4026px;
+
+
+}
+.item_photo11{
+    /* Rectangle 9.2 */
+
+position: absolute;
+width: 255px;
+height: 120px;
+left: 975px;
+top: 4026px;
+
+
+}
+.item_photo12{
+
+
+position: absolute;
+width: 255px;
+height: 120px;
+left: 1260px;
+top: 4026px;
+
+
+}
+.micro{
+    height: 228px; 
+    width: 1920px;
+    overflow: auto;
+    margin: 0 auto; 
+ 
+    width: auto;
+    top: 4206;
+   }
+   
+
+.forma{
+    height: 762px; 
+    width: 1920px;
+    overflow: auto;
+    margin: 0 auto; 
+  
+    top: 4274px;
+    background-color: #eeeff1;
+ 
+    width: auto;
+  
+   }
+   .mem{
+       /* Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. */
+
+position: absolute;
+width: 540px;
+height: 67px;
+left: 690px;
+top: 4426px;
+
+/* p */
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+
+
+   }
+   .text{
+
+position: absolute;
+width: 406px;
+height: 30px;
+left: 755px;
+top: 4346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+
+  
+   }
+   .ramka1{
+    
+
+position: absolute;
+width: 255px;
+height: 50px;
+left: 690px;
+top: 4558px;
+
+background: #FFFFFF;
+ 
+   }
+   .ramkatext1{
+       /* Ваше имя */
+
+
+width: 74px;
+height: 15px;
+position: relative;
+left: 20px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+
+color: #5F5D5D;
+
+z-index: 3;
+   }
+   .ramka2{
+       /* Rectangle 11.1 */
+
+position: absolute;
+width: 255px;
+height: 50px;
+left: 975px;
+top: 4558px;
+
+background: #FFFFFF;
+
+   }
+   .ramkatext2{
+    /* Ваше имя */
+
+
+width: 74px;
+height: 15px;
+position: relative;
+left: 20px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+
+color: #5F5D5D;
+
+z-index: 3;
+}
+.ramka3{
+    /* Rectangle 11.2 */
+
+position: absolute;
+width: 540px;
+height: 175px;
+left: 690px;
+top: 4628px;
+
+background: #FFFFFF;
+
+}
+.ramkatext3{
+    
+width: 74px;
+height: 15px;
+position: relative;
+left: 20px;
+top: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 23px;
+
+color: #5F5D5D;
+
+z-index: 3;
+
+}
+
+.rytp{
+ 
+
+
+
+
+position: absolute;
+width: 190px;
+height: 55px;
+left: 864px;
+top: 4853px;
+
+
+
+
+}
+.sky{
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1903px;
+height: 151px;
+left: 0px;
+top: 4984px;
+
+/* Accent */
+background: #34547A;
+
+
+
+}
+ 
+    
+
+
+    
+    /* Значки вк*/
+    .skyph1{
+        position: absolute;
+        width: 43.75px;
+        height: 40px;
+        left: 1531px;
+        top: 50px;
+        
+    }
+    .skyph2{
+        position: absolute;
+        width: 43.75px;
+        height: 40px;
+        left: 1465.38px;
+        top: 50px;
+        
+    }
+    
+    .skyph3{
+        position: absolute;
+        width: 43.75px;
+        height: 40px;
+        left: 1399.75px;
+        top: 50px;
+        
+    
+    }
+    .ivan{
+        /* Иванов Иван */
+
+position: absolute;
+width: 130px;
+height: 19px;
+left: 406px;
+top: 53px;
+
+/* h3 */
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+    }
+    .allrules{
+        /* (с) 2018. Все права защищены. */
+
+position: absolute;
+width: 193px;
+height: 12px;
+left: 406px;
+top: 78px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+    }
+    @font-face {
+ 
+        font-family: "Roboto"; 
+        src: url("./Roboto.ttf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
